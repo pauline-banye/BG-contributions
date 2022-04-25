@@ -50,17 +50,17 @@ This repo contain links to all the PRs I have made during the Blockgames interns
 
 | <b><u>Name of PR</u></b> | <b><u>Description</u></b> |
 | :------------------ | :------------------ |
-| **[Setup folder structure](https://github.com/Blockgames-TeamB/ZuriSchool/pull/1/files)**      | Created and setup the ZuriSchool repo     |
+| **[Setup folder structure](https://github.com/Blockgames-TeamB/ZuriSchool/pull/1/files)**      | Created and setup the ZuriSchool repo using hardhat and create react app    |
 | **[Setup folder structure](https://github.com/Blockgames-TeamB/ZuriSchool/pull/2/files)**      | Made PR to update changes from the development branch (dev) to the main branch            |
-| **[Initial Smart Contract](https://github.com/Blockgames-TeamB/ZuriSchool/pull/3/files)**      | Created the initial smartcontract with some of the functions required      |
+| **[Initial Smart Contract](https://github.com/Blockgames-TeamB/ZuriSchool/pull/3/files)**      | Created the smartcontract with some of the functions required  such as the register stakeholder, register candidate for election, voting function, start and stop voting session, assign roles to stakeholders, modifiers to outline and restrict the access to certain stakeholders and events to be emitted when a function is carried out successfully.    |
 | **[Add Director Function](https://github.com/Blockgames-TeamB/ZuriSchool/pull/4/files)**      | Added a director function to the contract. `Not merged` because the PR was to the main branch instead of dev            |
 | **[Add Director Function](https://github.com/Blockgames-TeamB/ZuriSchool/pull/5/files)**      | Created a function to add a director to the contract including a modifier that checks if an address is a director. Added events to be emitted when a director is added or removed.     |
-| **[Error fixes](https://github.com/Blockgames-TeamB/ZuriSchool/pull/8/files)**      | `Not merged`. Made minor adjustments to codebase because the structure of our contract was revised to accepting multiple categories. |
-| **[Error fixes](https://github.com/Blockgames-TeamB/ZuriSchool/pull/9/files)**      | Made minor adjustments to codebase because the structure of our contract was revised to accepting multiple categories.   |
-| **[Cleanup unused codes](https://github.com/Blockgames-TeamB/ZuriSchool/pull/13/files)**      | Removed some of the codes from the initial smart contract   |
-| **[Reorganised and cleaned up unused codes](https://github.com/Blockgames-TeamB/ZuriSchool/pull/21/files)**      | Reorganized and cleaned up modified codes from the smartcontract   |
-| **[cleanup and updated codes & natspec documentation](https://github.com/Blockgames-TeamB/ZuriSchool/pull/22/files)**      | More adjustments to codes   |
-| **[added test file](https://github.com/Blockgames-TeamB/ZuriSchool/pull/24/files)**      | setup for testing and added test file   |
-| **[cleanup and updated codes & natspec documentation](https://github.com/Blockgames-TeamB/ZuriSchool/pull/22/files)**      | More adjustments to codes   |
+| **[Error fixes](https://github.com/Blockgames-TeamB/ZuriSchool/pull/8/files)**      | `Not merged`. Made adjustments to codebase because the structure of our contract was revised to accept multiple categories. |
+| **[Error fixes](https://github.com/Blockgames-TeamB/ZuriSchool/pull/9/files)**      | Made adjustments to codebase because the structure of our contract was revised to accept multiple categories.   |
+| **[Cleanup unused codes](https://github.com/Blockgames-TeamB/ZuriSchool/pull/13/files)**      | Removed some of the codes from the initial smart contract because some codes were reworked to optimize the contract and reduce gas.  |
+| **[Reorganised and cleaned up unused codes](https://github.com/Blockgames-TeamB/ZuriSchool/pull/21/files)**      | Reorganized and cleaned up modified codes from the smartcontract for readability and optimization. |
+| **[cleanup and updated codes & natspec documentation](https://github.com/Blockgames-TeamB/ZuriSchool/pull/22/files)**      | Made more adjustments to codebase for optimization and updated natspec commenting.   |
+| **[added test file](https://github.com/Blockgames-TeamB/ZuriSchool/pull/24/files)**      | setup for testing and coverage. Added the first test file with a test for deployment   |
+| **[cleanup and updated codes & natspec documentation](https://github.com/Blockgames-TeamB/ZuriSchool/pull/22/files)**      | More adjustments to codebase because the contract was running very slowly   |
 | **[deployed smartcontract](https://github.com/Blockgames-TeamB/ZuriSchool/pull/26/files)**      | Edited deployment script to fix deployment errors. Deployed smartcontract   |
 
